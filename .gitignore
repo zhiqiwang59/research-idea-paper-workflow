@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+papers_2026/.cache/
+papers_2026/downloaded_papers/
+llm_deepseek_analysis/direct_read_pdfs/
+llm_deepseek_analysis/C01_C07_C08_papers/**/*.pdf
+
+*.pdf
+*.log
+paper_llm_judgments*.jsonl

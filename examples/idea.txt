@@ -1,0 +1,9 @@
+Replace this file with your own research idea.
+
+Suggested structure:
+- Problem: What research problem are you studying?
+- Scope: Which domain, tasks, models, or datasets matter?
+- Method direction: What kinds of methods are you considering?
+- Evidence needs: What papers would help as related work, baselines,
+  benchmarks, theory, or implementation inspiration?
+- Exclusions: What kinds of papers should the triage ignore?
