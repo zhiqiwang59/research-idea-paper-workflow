@@ -1,5 +1,7 @@
 # Research Idea Paper Workflow
 
+![Research Idea Paper Workflow banner](assets/project-banner.png)
+
 This repository contains a reproducible research workflow for collecting 2026 AI conference paper metadata, triaging LLM-related work, selecting papers relevant to a long-horizon-agent research idea, and generating structured deep-read reports.
 
 The released version intentionally excludes private local paths, API keys, caches, downloaded PDFs, and large raw model-output JSONL files.
